@@ -50,5 +50,3 @@ Built an end-to-end computer-vision pipeline that detects and counts diners in q
 - **20%** reduction in wait-time variance during pilot  
 - **30%** uplift in peak-hour throughput  
 - Deployed across 5 dining locations; full rollout planned campus-wide
-
----
